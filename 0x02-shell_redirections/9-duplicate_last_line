@@ -1,2 +1,2 @@
 #!/bin/bash
-cp tail -1f iacta
+tail -n 1 iacta > copy_of_iacta
