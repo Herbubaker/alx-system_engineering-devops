@@ -1,2 +1,3 @@
 #!/bin/bash
-find //usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin -type d | wc -l
+find /alx-system_engineering-devops/0x03-shell_variabl
+es_expansions -type d | wc -l
