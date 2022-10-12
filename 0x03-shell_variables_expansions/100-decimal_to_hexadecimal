@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DECIMAL16))
+echo "obase=16;$DECIMAL" | bc
